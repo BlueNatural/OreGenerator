@@ -1,0 +1,47 @@
+#OreGenerator plugin
+#If OreGenerator caught error please report it for BlueNatural organization
+#We will listen and help to you
+#Thanks !
+
+ban-worlds:
+  - world
+#List of worlds 
+
+block-second-create: 'FENCE'
+#Block second will create block
+
+total-chance-type: 'ONE_HUNDRED_PERCENT'
+#If total-chance-type was ONE_HUNDRED_PERCENT
+#The percent will be changed to 100%
+#If total-chance-type was EDIT
+#The percent will be edited by you
+
+total-chance: 100
+#The chance can be editable
+
+chance-cobblestone: 41 
+#Chance of cobblestone
+chance-iron: 22
+#Chance of iron
+chance-gold: 12
+#Chance of gold
+chance-quartz: 11
+#Chance of quartz 
+chance-diamond: 9
+#Chance of diamond
+chance-emerald: 5
+#Chance of emerald 
+
+sound.enable: true
+#Activate if you set the sound.enable to true
+sound.break-coal-block: 'ENTITY_PLAYER_ATTACK_CRIT'
+sound.break-iron-block: 'ENTITY_PLAYER_ATTACK_CRIT'
+sound.break-gold-block: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+sound.break-quartz-block: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+sound.break-diamond-block: 'ENTITY_EXPERIENCE_ORB_PICKUP'
+sound.break-emerald-block: 'ENTITY_PLAYER_LEVELUP'
+#Play sound if you have broken the block
+
+
+
+

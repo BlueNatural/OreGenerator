@@ -1,0 +1,27 @@
+prefix: '&c&l(&aOre&7Generator&c&l)'
+#Prefix of plugin
+
+actionbar.enable: true
+#Will enable if you have set actionbar to true
+#If false the system will send message not actionbar
+actionbar.break-coal-block: '&aYou have broken the &7coal block'
+actionbar.break-iron-block: '&aYou have broken the &firon block'
+actionbar.break-gold-block: '&aYou have broken the &egold block'
+actionbar.break-quartz-block: '&aYou have broken the &fquartz block'
+actionbar.break-diamond-block: '&aYou have broken the &bdiamond block'
+actionbar.break-cobblestone-block: '&aYou have broken the &8cobblestone'
+actionbar.break-emerald-block: '&aYou have broekn the &2emerald block'
+
+message.break-coal: '&aYou have broken the &8coal block'
+message.break-iron: '&aYou have broken the &firon block'
+message.break-gold: '&aYou have broken the &6gold block'
+message.break-quartz: '&aYou have broken the &fquartz block'
+message.break-diamond: '&aYou have broken the &bdiamond block'
+message.break-cobblestone: '&aYou have broken &7cobblestone'
+message.break-emerald: '&aYou have broken &2emerald block'
+message.cant-break: '&cYou cant break this block'
+message.not-perm: '&cYou didnt have permission to do that !'
+message.add-list-complete: '&aAdd player to ban list complete !'
+message.cant-perform: 'Unknown args or player isnt online now !'
+message.remove-list-complete: '&cRemove player out of ban list complete !'
+message.reload: '&aThis plugin has been reloaded complete !'

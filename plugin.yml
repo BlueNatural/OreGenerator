@@ -1,0 +1,23 @@
+name: OreGenerator
+version: 1.7
+main: org.oregenerator.marcus.OreGenerator
+author: BlueNatural
+website: github.com/bluenatural
+soft-depend: TextTitle
+
+commands:
+  oregenerator:
+    description: Show list of commands
+    usage: /<command>
+    aliases: og
+
+permissions:
+  og.help:
+    description: Show list of commands
+  og.addlist:
+    description: Add player to removing list
+  og.removelist:
+    description: Remove player out of removing list
+  og.reload:
+    description: Reload plugin
+    
